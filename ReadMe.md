@@ -1,8 +1,8 @@
 # Automate Merchant Onboarding in a Python App
-This is a Python application that demonstrates programmatic merchant onboarding for a Merchant Processing Account using Payments Hub's <a href='https://developer.paymentshub.com/products/fintech-tools/merchant-boarding-api' target='_blank'>Merchant Boarding API</a>. The code in this repository handles the front and back-end processes for creating a new Merchant ID (MID) application and submitting it to Payments Hub for Underwriting.
+This is a Python application that demonstrates programmatic merchant onboarding for a Merchant Processing Account using North's <a href='https://developer.paymentshub.com/products/fintech-tools/merchant-boarding-api' target='_blank'>Merchant Boarding API</a>. The code in this repository handles the front and back-end processes for creating a new Merchant ID (MID) application and submitting it to North for Underwriting.
 
 ## Get Sandbox Credentials
-To get started, create a free [Payments Hub Developer Portal account](https://developer.paymentshub.com/auth/signup). This will allow you to get the sandbox credentials that are required to test the app. Log in to your account to view the official [Merchant Boarding API Integration Guide](https://developer.paymentshub.com/products/fintech-tools/merchant-boarding-api/integration), then [contact](https://developer.paymentshub.com/contact) the Payments Hub Sales Engineering team to get sandbox credentials added to your Developer Portal account.
+To get started, create a free [North Developer Portal account](https://developer.paymentshub.com/auth/signup). This will allow you to get the sandbox credentials that are required to test the app. Log in to your account to view the official [Merchant Boarding API Integration Guide](https://developer.paymentshub.com/products/fintech-tools/merchant-boarding-api/integration), then [contact](https://developer.paymentshub.com/contact) North's Sales Engineering team to get sandbox credentials added to your Developer Portal account.
 
 ## Completed App
 Your completed app will look similar to the following:
